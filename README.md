@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Sunil 👋
 
-<!--
-**infysunil/infysunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I am Sunil, Software Engineer. I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a big lover of everything back-end and python related. Also working on RPA technologies like Uipath, Automation anywhere.
+
+#### Skills
+- **Front-end:** JavaScript, HTML
+- **Back-end:** Python, Django, Flask, PostgreSQL
+- **RPA:** UiPath, Automation Anywhere
+- **Cloud:** AWS, GCP
+- **Dev-Ops:** Docker
+- **Other:** Linux
